@@ -71,11 +71,11 @@ module.exports = {
 
   HANDLERS: process.env.PREFIX  || "$",
   BRANCH  : process.env.BRANCH  || "main",
-  VERSION : process.env.VERSION || "1.3.8",
+  VERSION : process.env.VERSION || "1.3.9",
   caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| "https://telegra.ph/file/5099de19d4f0689ae5558.jpg",
-  packname: process.env.PACK_NAME || "pp",
+  author : process.env.PACK_AUTHER|| "",
+  packname: process.env.PACK_NAME || "",
   botname : process.env.BOT_NAME  || "sᴜʜᴀɪʟ-ᴍᴅ",
   ownername:process.env.OWNER_NAME|| "ICHIGO ALPIRIX-TYRANT",
 
@@ -92,7 +92,7 @@ module.exports = {
 
 
   WORKTYPE: process.env.WORKTYPE || process.env.MODE|| "public",
-  LANG: ( process.env.THEME ||  "SUHAIL"  ).toUpperCase(),
+  LANG: ( process.env.THEME ||  "NEZUKO"  ).toUpperCase(),
 
 
 
