@@ -2,7 +2,7 @@
   "__JSON__": true,
   "AUTHOR": "SuhailTechInfo",
   "Theme": "Friday",
-  "LANGCODE": "en",
+  "LANGCODE": "Fr",
   "STRINGS": {  
       "updater": {    
           "UPDATE": "*Your bot is already on latest version Sir*",
